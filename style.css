@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: gray;
+}
+
+.card {
+  background-color: rgb(216, 226, 226);
+  padding: 5px 15px;
+  width: 410px;
+  border-radius: 10px;
+}
+img {
+  border-radius: 18px;
+  padding: 10px 10px;
+}
+.capsules {
+  margin-top: 10px;
+  
+}
+
+span {
+  background-color: rgba(149, 128, 128, 0.353);
+  margin-left: 25px;
+  border-radius: 15px;
+  padding: 5px 8px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(56, 135, 108);
+}
+#boat {
+  font-family: 'Courier New', Courier, monospace;
+  margin-top: 15px;
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+#paragraph{
+  font-family: cursive;
+  margin-top: 10px;
+  margin-left: 20px;
+  color: rgb(148, 154, 154);
+}
+#btn{
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  
+}
+#btn a{
+  text-decoration: none;
+  background-color: rgb(191, 208, 203);
+  border-radius: 20px;
+  padding: 10px 15px;
+  color: rgb(5, 5, 133);
+  
+}
